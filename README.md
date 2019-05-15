@@ -1,3 +1,9 @@
+<h1>Web Resume Project</h1>
+
+Very simple website to showcase different projects and try out multimedia features on ReactJS, as well as responsiveness. 
+
+
+## NOTES FROM REACT APP PROJECT CREATION
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
